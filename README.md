@@ -1,4 +1,4 @@
-### 🧩&nbsp;Solving puzzles for fun and for a living :)
+### 🧩&nbsp;solving puzzles for fun and for a living :)
 prev:
 - conversational ai agents @ convozen.ai
 - software developer @ paac
