@@ -1,6 +1,9 @@
 ### 🧩&nbsp;solving puzzles for fun and for a living :)
-prev:
+
+presently:
 - ai researcher @ agentnet
+
+prev:
 - conversational ai agents @ convozen.ai
 - math and systems @ paac
 
